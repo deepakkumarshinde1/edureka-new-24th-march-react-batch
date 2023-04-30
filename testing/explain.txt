@@ -1,0 +1,21 @@
+JEST ==> Facebook 
+    ==> testing component
+        Enzyme
+        React-Testing-Library
+
+        ToDo Application + Bootstrap
+
+        Header
+        Input + Button
+        ToDoLIst
+
+        #Query Methods
+            FindAllBy
+            FindBy
+            GetAllBy
+            GetBy
+            QueryAllBy
+            QueryBy
+
+        # getByText
+        # getByRole
